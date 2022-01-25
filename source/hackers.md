@@ -1,6 +1,6 @@
 ---
 title: 知っておくべきハッカーリスト
-categories: [others]
+tags: ["others"]
 ---
 
 # 知っておくべきハッカーリスト
