@@ -7,7 +7,11 @@ tags: ["others"]
 
 result(s)は加算名詞。したがって\<blank>は除外。thereとtheはどちらでも可。
 
-results?について文脈によって異なる。生徒が複数の科目のテストの結果を待っている状況ならresults、たった一つのテストを受けてその結果を待っている状況ならresultとなる。したがってどちらでも可。正解は
+results?について文脈によって異なる。生徒が複数の科目のテストの結果を待っている状況ならresults、たった一つのテストを受けてその結果を待っている状況ならresultとなる。
+
+**複数の主語=複数の目的語** とは限らない。
+
+したがってどちらでも可。正解は
 
 It is not unusual for students to experience anxiety when waiting for (there | the) exam results?.
 
